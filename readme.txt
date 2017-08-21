@@ -1,7 +1,3 @@
 Git is a version control system.
 Git is free subscribe software.
-
-
-
-dkfjskaj
-dksjfl
+Git has a mutable index called stage.
